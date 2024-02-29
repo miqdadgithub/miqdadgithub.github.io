@@ -591,8 +591,10 @@ a {
 .max-w-2xl {
   max-width: 42rem;
 }
-.research-title {
-  padding-left: 4px;
-  padding-top: 4rem;
-  color: var(--color-primary);
+.hero {
+  margin: 0;
+}
+.experience-title {
+  align-items: left;
+  padding: 5px;
 }
